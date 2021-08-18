@@ -19,5 +19,7 @@ Algoritham used :- Build a transformer for question answer sequences using:-
   1) Multi-Head Attention Mechanism
 
   2) Position-Encoding and Position-Wise Feed Forward NNs
+  
+ Adam optimizer is used.
 
 Uploaded the course completion certificate on this repo. itself.
